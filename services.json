@@ -1,45 +1,38 @@
 [
-    {
-      "id": 1,
-      "title": "Web Development",
-      "description": "Building responsive, user-friendly, and scalable websites tailored to your business needs.",
-      "image": "https://source.unsplash.com/featured/?webdevelopment,code",
-      "keywords": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
-    },
-    {
-      "id": 2,
-      "title": "Mobile App Development",
-      "description": "Creating intuitive and performant mobile applications for Android and iOS platforms.",
-      "image": "https://source.unsplash.com/featured/?mobile,app",
-      "keywords": ["React Native", "Flutter", "API Integration", "UI/UX"]
-    },
-    {
-      "id": 3,
-      "title": "UI/UX Design",
-      "description": "Designing modern and visually appealing interfaces with a focus on user experience.",
-      "image": "https://source.unsplash.com/featured/?design,ui",
-      "keywords": ["Wireframes", "Prototyping", "Figma", "Adobe XD"]
-    },
-    {
-      "id": 4,
-      "title": "E-commerce Solutions",
-      "description": "Developing secure and efficient e-commerce platforms to enhance your online presence.",
-      "image": "https://source.unsplash.com/featured/?ecommerce,shopping",
-      "keywords": ["Shopify", "WooCommerce", "Payment Integration", "Product Management"]
-    },
-    {
-      "id": 5,
-      "title": "SEO Optimization",
-      "description": "Improving website ranking on search engines through tailored SEO strategies.",
-      "image": "https://source.unsplash.com/featured/?seo,marketing",
-      "keywords": ["Keyword Research", "On-Page SEO", "Technical SEO", "Analytics"]
-    },
-    {
-      "id": 6,
-      "title": "Backend Development",
-      "description": "Building robust server-side solutions to ensure smooth application performance.",
-      "image": "https://source.unsplash.com/featured/?backend,server",
-      "keywords": ["Node.js", "Express", "MongoDB", "MySQL"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "Building responsive, user-friendly, and scalable websites tailored to your business needs.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Development",
+    "description": "Creating intuitive and performant mobile applications for Android and iOS platforms.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design",
+    "description": "Designing modern and visually appealing interfaces with a focus on user experience.",
+    "image": "https://images.unsplash.com/photo-1604779447628-5dfeca1d549b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce Solutions",
+    "description": "Developing secure and efficient e-commerce platforms to enhance your online presence.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+  },
+  {
+    "id": 5,
+    "title": "SEO Optimization",
+    "description": "Improving website ranking on search engines through tailored SEO strategies.",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+  },
+  {
+    "id": 6,
+    "title": "Backend Development",
+    "description": "Building robust server-side solutions to ensure smooth application performance.",
+    "image": "https://images.unsplash.com/photo-1556761175-129418cb2dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+  }
+]
